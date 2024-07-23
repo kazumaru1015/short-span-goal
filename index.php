@@ -24,7 +24,6 @@
         $month++;
       }
       ?>
-
     <input type="submit" value="送信ボタン">
   </form>
 
